@@ -35,12 +35,12 @@ const Home: NextPage = () => {
       {/* <div>
         <h1 style={{ position:'absolute'}}>Auxiliar Manipuladora</h1>
       </div> */}
-      <div className={styles.container}>
+      {/* <div className={styles.container}>
         <h1 className={styles.titulo} style={estilos} >Auxiliar Manipuladora</h1>
       </div>
       <div className={styles.movil}>
         <h1 className={styles.telefono} style={estilos} >968 693 575</h1>
-      </div>
+      </div> */}
       <Canvas
         style={{ width: '100%', margin:'auto', height:'88vh', border:'2px solid black'}}
         camera={{view: 

@@ -87,3 +87,5 @@ export function Dav(props) {
 }
 
 useGLTF.preload("/3D 4E0005.gltf");
+
+
